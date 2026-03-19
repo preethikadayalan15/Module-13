@@ -8,7 +8,7 @@ Start the program. Define a set of valid operators: *, -, +, %, /, **. Initializ
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg - 212222090019 Name - D.Preethika
 
 OPERATORS=set(['*','-','+','%','/','**']) 
 
